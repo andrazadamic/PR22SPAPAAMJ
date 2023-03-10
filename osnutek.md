@@ -2,6 +2,8 @@
 
 ### Projektna naloga za predmet Podatkovno rudarjenje v letu 2022/2023
 
+*Sašo Primožič, Ambrož Preovšek, Andraž Adamič, Matija Ječnik*
+
 ### Cilji
 
 - Kako se giblje trend stopnje kriminala v Sloveniji?
