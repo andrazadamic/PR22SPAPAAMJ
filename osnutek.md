@@ -2,7 +2,7 @@
 
 ### Projektna naloga za predmet Podatkovno rudarjenje v letu 2022/2023
 
-*Sašo Primožič, Ambrož Preovšek, Andraž Adamič, Matija Ječnik*
+*Sašo Primožič, Ambrož Perovšek, Andraž Adamič, Matija Ječnik*
 
 ### Cilji
 
