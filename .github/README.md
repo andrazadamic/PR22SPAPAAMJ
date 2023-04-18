@@ -1,1 +1,0 @@
-../osnutek.md
