@@ -1,6 +1,5 @@
 # Analiza kaznivih dejanj v Sloveniji
 
----
 
 ### Projektna naloga za predmet Podatkovno rudarjenje, Fakulteta za računalništvo in informatiko, 2022/2023
 
