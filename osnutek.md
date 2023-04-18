@@ -13,7 +13,7 @@
 ### Opis podatkov
 
 [Vir podatkov](https://podatki.gov.si/dataset/mnzpkazniva-dejanja-od-leta-2009-dalje)
-- Podatki so beleženi od leta 2009 do 2022
+- Podatki so beleženi od leta 1945 do 2019
 - V datoteki so zajeta vsa kazniva dejanja, za katera je policija vložila kazensko ovadbo ali poročilo.
 - Zapisani so v datotekah .csv s sledečimi atributi: 
 
